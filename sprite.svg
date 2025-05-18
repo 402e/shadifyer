@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <symbol id="logo"  viewBox="0 0 32 32">
+        <path fill="rgba(75, 75, 75, 1.00)" d="M9 2h6v1H9zM7 3h3v1H7zm7 0h3v1h-3zM6 4h2v1H6zm9 0h3v1h-3zM5 5h2v1H5zm9 0h2v1h-2zm3 0h2v1h-2zM5 6h1v1H5zm9 0h1v1h-1zm4 0h1v1h-1zM4 7h2v1H4zm10 0h2v1h-2zm3 0h2v1h-2zM4 8h1v1H4zm11 0h3v1h-3zM4 9h2v1H4zm1 1h1v1H5zm6 0h10v1H11zm-6 1h2v1H5zm3 0h4v1H8zm12 0h3v1h-3zM6 12h3v1H6zm16 0h3v1h-3zM6 13h2v1H6zm18 0h2v1h-2zM5 14h2v1H5zm20 0h2v1h-2zM4 15h2v1H4zm22 0h2v1h-2zM3 16h2v1H3zm24 0h1v1h-1zM3 17h1v1H3zm24 0h2v1h-2zM2 18h2v1H2zm26 0h1v1h-1zM2 19h1v1H2zm26 0h2v1h-2zM2 20h1v1H2zm8 0h1v1h-1zm6 0h1v1h-1zm5 0h1v1h-1zm3 0h1v1h-1zm5 0h1v1h-1zM1 21h2v1H1zm9 0h1v1h-1zm6 0h1v1h-1zm5 0h1v1h-1zm3 0h1v1h-1zm5 0h1v1h-1zM1 22h1v1H1zm9 0h15v1H10zm19 0h2v1h-2zM1 23h1v1H1zm9 0h5v1h-5zm10 0h5v1h-5zm10 0h1v1h-1zM1 24h1v1H1zm9 0h4v1h-4zm10 0h3v1h-3zm4 0h1v1h-1zm6 0h1v1h-1zM0 25h2v1H0zm10 0h4v1h-4zm10 0h3v1h-3zm4 0h1v1h-1zm6 0h2v1h-2zM0 26h1v1H0zm10 0h1v1h-1zm14 0h1v1h-1zm7 0h1v1h-1zM0 27h1v1H0zm10 0h1v1h-1zm14 0h2v1h-2zm7 0h1v1h-1zM0 28h1v1H0zm10 0h1v1h-1zm15 0h1v1h-1zm6 0h1v1h-1zM0 29h2v1H0zm10 0h1v1h-1zm15 0h1v1h-1zm5 0h2v1h-2zM1 30h1v1H1zm9 0h2v1h-2zm14 0h2v1h-2zm6 0h1v1h-1zM1 31h30v1H1z"/><path fill="rgba(249, 211, 129, 1.00)" d="M16 5h1v1h-1zm-1 1h3v1h-3zm1 1h1v1h-1z"/><path fill="rgba(250, 250, 250, 1.00)" d="M12 11h8v1h-8zm-3 1h13v1H9zm-1 1h16v1H8zm-1 1h18v1H7zm-1 1h20v1H6zm-1 1h22v1H5zm-1 1h23v1H4zm0 1h24v1H4zm-1 1h25v1H3zm0 1h7v1H3zm8 0h5v1h-5zm6 0h4v1h-4zm5 0h2v1h-2zm3 0h4v1h-4zM3 21h7v1H3zm8 0h5v1h-5zm6 0h4v1h-4zm5 0h2v1h-2zm3 0h4v1h-4zM2 22h8v1H2zm23 0h4v1h-4zM2 23h8v1H2zm23 0h5v1h-5zM2 24h8v1H2zm12 0h1v1h-1zm9 0h1v1h-1zm2 0h5v1h-5zM2 25h8v1H2zm12 0h1v1h-1zm9 0h1v1h-1zm2 0h5v1h-5zM2 26h8v1H2zm12 0h1v1h-1zm9 0h1v1h-1zm2 0h6v1h-6zM2 27h8v1H2zm11 0h2v1h-2zm9 0h2v1h-2zm4 0h5v1h-5zM3 28h7v1H3zm11 0h1v1h-1zm9 0h1v1h-1zm3 0h5v1h-5zm0 1h1v1h-1z"/><path fill="rgba(157, 157, 157, 1.00)" d="M15 23h5v1h-5zm9 5h1v1h-1zm-1 1h2v1h-2zm-11 1h12v1H12z"/><path fill="rgba(212, 212, 212, 1.00)" d="M15 24h5v1h-5zm0 1h5v1h-5zM1 26h1v1H1zm14 0h5v1h-5zM1 27h1v1H1zm14 0h5v1h-5zM1 28h2v1H1zm14 0h5v1h-5zM2 29h8v1H2zm9 0h12v1H11zm16 0h3v1h-3zM2 30h8v1H2zm24 0h4v1h-4z"/><path fill="rgba(88, 174, 238, 1.00)" d="M11 26h3v1h-3zm9 0h3v1h-3zm-9 1h2v1h-2zm9 0h2v1h-2zm-9 1h3v1h-3zm9 0h3v1h-3z"/>
+    </symbol>
+    <symbol id="github" viewBox="0 0 24 24">
+    <path d="M9,0h6v1h-6zM7,1h10v1h-10zM5,2h14v1h-14zM4,3h16v1h-16zM3,4h18v1h-18zM2,5h20v1h-20zM2,6h20v1h-20zM1,7h6v1h-6zM8,7h8v1h-8zM17,7h6v1h-6zM1,8h6v1h-6zM9,8h6v1h-6zM17,8h6v1h-6zM0,9h7v1h-7zM17,9h7v1h-7zM0,10h7v1h-7zM17,10h7v1h-7zM0,11h7v1h-7zM17,11h7v1h-7zM0,12h7v1h-7zM17,12h7v1h-7zM0,13h7v1h-7zM17,13h7v1h-7zM0,14h7v1h-7zM17,14h7v1h-7zM1,15h6v1h-6zM17,15h6v1h-6zM1,16h7v1h-7zM16,16h7v1h-7zM2,17h7v1h-7zM15,17h7v1h-7zM2,18h3v1h-3zM6,18h4v1h-4zM14,18h8v1h-8zM3,19h3v1h-3zM8,19h2v1h-2zM14,19h7v1h-7zM4,20h4v1h-4zM14,20h6v1h-6zM5,21h5v1h-5zM14,21h5v1h-5zM7,22h3v1h-3zM14,22h3v1h-3zM9,23h1v1h-1zM14,23h1v1h-1z" />
+    </symbol>
+    <mask id="copy-mask" maskContentUnits="objectBoundingBox">
+        <g transform="scale(0.06666)">
+	    <rect width="100%" height="100%" fill="black" />
+	    <path fill="white" d="M4,0h10v1h-10zM3,1h2v1h-2zM13,1h2v1h-2zM3,2h1v1h-1zM14,2h1v1h-1zM1,3h10v1h-10zM14,3h1v1h-1zM0,4h2v1h-2zM10,4h2v1h-2zM14,4h1v1h-1zM0,5h1v1h-1zM11,5h1v1h-1zM14,5h1v1h-1zM0,6h1v1h-1zM11,6h1v1h-1zM14,6h1v1h-1zM0,7h1v1h-1zM11,7h1v1h-1zM14,7h1v1h-1zM0,8h1v1h-1zM11,8h1v1h-1zM14,8h1v1h-1zM0,9h1v1h-1zM11,9h1v1h-1zM14,9h1v1h-1zM0,10h1v1h-1zM11,10h1v1h-1zM13,10h2v1h-2zM0,11h1v1h-1zM11,11h3v1h-3zM0,12h1v1h-1zM11,12h1v1h-1zM0,13h2v1h-2zM10,13h2v1h-2zM1,14h10v1h-10z" />
+        </g>
+    </mask>
+    <mask id="download-mask" maskContentUnits="objectBoundingBox">
+        <g transform="scale(0.06666)">
+            <rect width="100%" height="100%" fill="black" />
+            <path fill="white" d="M7,0h1v1h-1zM7,1h1v1h-1zM7,2h1v1h-1zM7,3h1v1h-1zM7,4h1v1h-1zM7,5h1v1h-1zM3,6h1v1h-1zM7,6h1v1h-1zM11,6h1v1h-1zM3,7h2v1h-2zM7,7h1v1h-1zM10,7h2v1h-2zM4,8h2v1h-2zM7,8h1v1h-1zM9,8h2v1h-2zM5,9h5v1h-5zM6,10h3v1h-3zM7,11h1v1h-1zM0,12h1v1h-1zM14,12h1v1h-1zM0,13h2v1h-2zM13,13h2v1h-2zM1,14h13v1h-13z" />
+        </g>
+     </mask>
+    <mask id="done-mask" maskContentUnits="objectBoundingBox">
+        <g transform="scale(0.06666)">
+            <rect width="100%" height="100%" fill="black" />
+            <path fill="white" d="M12,1h1v1h-1zM12,2h1v1h-1zM11,3h2v1h-2zM11,4h1v1h-1zM10,5h2v1h-2zM10,6h1v1h-1zM9,7h2v1h-2zM9,8h1v1h-1zM2,9h1v1h-1zM8,9h2v1h-2zM2,10h2v1h-2zM8,10h1v1h-1zM3,11h2v1h-2zM7,11h2v1h-2zM4,12h2v1h-2zM7,12h1v1h-1zM5,13h3v1h-3zM6,14h1v1h-1z" />
+        </g>
+     </mask>
+</svg>

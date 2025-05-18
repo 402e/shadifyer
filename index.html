@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shadifyer</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="header__title">
+            <svg class="svg-image header__logo">
+                <use href="sprite.svg#logo">
+            </svg>
+            Shadifyer
+        </h1>
+        <p class="header__description">
+            Generate colors of light and shadow
+        </p>
+    </header>
+    <main class="main">
+        <form class="form">
+            <section class="form__section">
+                <div class="form__part">
+                    <div class="form__field">
+                        <label for="main-color" class="label">Main color:</label>
+                        <input type="text" id="main-color" class="text-input color-input" />
+                        <input type="color" id="main-color-button" class="form__color form__color-button" />
+                    </div>
+                </div>
+            </section>
+
+            <section id="settings-block" class="form__section">
+                <div class="form__part">
+                    <h2 class="form__subtitle">Color adjustments (delta values)</h2>
+                    <div class="form__field">
+                        <label for="hue" class="label">Hue:</label>
+                        <input type="number" id="hue" class="text-input" min="0" max="360" />
+                    </div>
+                    <div class="form__field">
+                        <label for="saturation" class="label">Saturation:</label>
+                        <input type="number" id="saturation" class="text-input" min="0" max="100" />
+                    </div>
+                    <div class="form__field">
+                        <label for="brightness" class="label">Brightness:</label>
+                        <input type="number" id="brightness" class="text-input" min="0" max="100" />
+                    </div>
+                </div>
+
+                <div class="form__part">
+                    <h2 class="form__subtitle">Maximum number of shades to generate for each type:</h2>
+                    <div class="form__field">
+                        <label for="results-count" class="label">Quantity:</label>
+                        <input type="number" id="results-count" class="text-input" min="1" max="100" />
+                    </div>
+                </div>
+
+                <div class="form__part">
+                    <h2 class="form__subtitle">Select which shades to generate</h2>
+                    <div class="form__field">
+                        <input type="radio" name="mode" id="mode-both" value="both" class="radio" checked />
+                        <label for="mode-both" class="label">Both</label>
+                    </div>
+                    <div class="form__field">
+                        <input type="radio" name="mode" id="mode-light" value="light" class="radio" />
+                        <label for="mode-light" class="label">Only light</label>
+                    </div>
+                    <div class="form__field">
+                        <input type="radio" name="mode" id="mode-shadow" value="shadow" class="radio" />
+                        <label for="mode-shadow" class="label">Only shadow</label>
+                    </div>
+                </div>
+            </section>
+
+            <section id="form-submit" class="form__section">
+                <div class="form__part">
+                    <div class="form__field">
+                        <button id="submit" type="submit" class="button button_primary">Generate</button>
+                    </div>
+                </div>
+            </section>
+
+        </form>
+        <div id="code-block" class="code" hidden>
+            <div class="code__buttons">
+                <button id="copy" class="button button_secondary button_has-icon">
+                    Copy
+                </button>
+                <button id="download" class="button button_secondary button_has-icon">
+                    Download
+                </button>
+            </div>
+            <pre class="code__pre"><code id="code-element"></code></pre>
+        </div>
+    </main>
+    <footer class="footer">
+        <a class="footer__link footer__github" href="https://github.com/402e/shadifyer" target="_blank">
+            <svg class="svg-image">
+                <use href="sprite.svg#github">
+            </svg>
+            Github
+        </a>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
